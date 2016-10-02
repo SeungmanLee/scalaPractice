@@ -1,0 +1,2 @@
+# scalaPractice
+Scala tutorial practice
