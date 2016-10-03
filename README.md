@@ -13,3 +13,13 @@ run : scala -classpath . [ClassName]
 
 
 
+Tool download 
+
+url : http://scala-ide.org/download/sdk.html
+
+
+Todo : mixin 
+
+http://docs.scala-lang.org/tutorials/tour/mixin-class-composition 
+
+
